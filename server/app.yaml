@@ -1,0 +1,2 @@
+runtime: nodejs20 # or whichever version you are using
+env: standard
